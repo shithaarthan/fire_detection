@@ -22,8 +22,7 @@ This project implements a fire detection system using the YOLO (You Only Look On
 
 1.  **Clone the repository:**
     
-    `git clone https://github.com/yourusername/fire-detection-ai.git
-    cd fire-detection-ai` 
+    `git clone https://github.com/yourusername/fire-detection-ai.git` 
 
 1.  **Download YOLO weights and configuration:**
     
