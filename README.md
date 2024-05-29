@@ -26,8 +26,7 @@ This project implements a fire detection system using the YOLO (You Only Look On
 
 1.  **Download YOLO weights and configuration:**
     
-    -   For YOLOv4: [YOLOv4 Weights and Config](https://github.com/AlexeyAB/darknet)
-    -   For YOLOv5: [YOLOv5 Repository](https://github.com/ultralytics/yolov5)
+    -  YOLO V8 is recommended
   ## Set up environment variables for email and SMS notifications:**
     
    Edit a `gen_message.py` file in the root directory of the project and add your SMTP and Twilio credentials.
